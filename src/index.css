@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.activeNav {
+    font-size: 20px; /* Increase size for active link */
+    color: white;
+  }
+  
+  .inactive {
+    font-size: 20px; /* Regular size for inactive links */
+    color: black;
+  }

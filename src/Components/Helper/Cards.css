@@ -1,0 +1,15 @@
+.proDesc {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.mainImg{
+  margin-bottom: 20px;
+}
+
+@media screen and (max-width : 935px) {
+  .proDetails{
+    flex-direction: column;
+  }
+}
